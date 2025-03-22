@@ -11,7 +11,7 @@ export default function Skills() {
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">                        
                         <div className="space-y-6 shadow-lg border-gray-100 border bg-white p-4 md:p-8 rounded-2xl mx-4 md:mx-0">
                             <h3 className="text-3xl text-black font-bold"><i className='bx bx-code-alt text-[#008584] text-3xl bg-[#51c774]/10 p-4 rounded-md'></i> Skills Técnicas</h3>
-                            <ul className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-2 gap-4">
+                            <ul className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-2 gap-4">
                             { skillsLg.map((item, index) => (
                                 <li key={index} className="flex items-center bg-[#e9e9e9] w-fit mx-auto rounded-2xl hover:bg-[#008584] group">
                                     <div className="p-2 lg:p-3">
