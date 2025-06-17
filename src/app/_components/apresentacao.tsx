@@ -24,7 +24,7 @@ export default function Apresentacao() {
                 <div className="w-full lg:w-1/2 m-auto">
                     <div className="grid grid-cols-1 md:grid-cols-2 mx-4 gap-8">
                         <Link href="https://maxleme.tothebox.com.br/cv/maxleme.pdf" target="_blank" className="flex items-center gap-2 justify-center m-auto w-[70%] md:w-fit hover:bg-[#008584] bg-[#e9e9e9] text-xl lg:text-base p-4 md:p-4 md:px-6 text-center border-[#008584] border-2 text-[#008584] hover:text-white rounded-sm"><i className='bx bx-download text-2xl md:text-2xl' ></i> Download CV</Link>
-                        <Link href="" className="flex items-center gap-2 justify-center m-auto w-[70%] md:w-fit hover:bg-[#008584] bg-[#e9e9e9] text-xl lg:text-base p-4 md:p-4 md:px-6 text-center border-[#008584] border-2 text-[#008584] hover:text-white rounded-sm"><i className='bx bxs-show text-2xl md:text-xl'></i> Ver Projetos</Link>    
+                        <Link href="#projetos" className="flex items-center gap-2 justify-center m-auto w-[70%] md:w-fit hover:bg-[#008584] bg-[#e9e9e9] text-xl lg:text-base p-4 md:p-4 md:px-6 text-center border-[#008584] border-2 text-[#008584] hover:text-white rounded-sm"><i className='bx bxs-show text-2xl md:text-xl'></i> Ver Projetos</Link>    
                     </div>
                 </div>                
             </div>

@@ -17,7 +17,7 @@ export default function Footer() {
                     <h4 className="text-2xl font-bold">Links</h4>
                     <ul className="mt-4 space-y-1">
                         <li><Link href="/">Home</Link></li>
-                        <li><Link href="/projetos">Projetos</Link></li>
+                        <li><Link href="#projetos">Projetos</Link></li>
                         <li><Link href="">Download CV</Link></li>
                     </ul>
                 </div>
