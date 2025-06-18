@@ -24,7 +24,7 @@ export default function Projetos() {
                         </div>
                         <div className="space-y-6 shadow-lg border-gray-100 border bg-white p-4 md:p-8 rounded-2xl mx-4">
                             <div className='flex items-center justify center'>
-                                <Link href='https://epsc.com.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={epscImg} className="" quality={100} alt="Print da tela inicial do site da radar do marketing"/></Link>
+                                <Link href='https://epsc.com.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={epscImg} className="" quality={100} alt="Print da tela inicial do site epsc"/></Link>
                             </div>
                             <Link href='https://epsc.com.br/' target='_blank'><h3 className='font-bold text-center mt-5'>EPSC</h3></Link>
                             <p className='text-center'><b>Tecnologias:</b> React, Bootstrap 3</p>
@@ -32,7 +32,7 @@ export default function Projetos() {
                         </div>
                         <div className="space-y-6 shadow-lg border-gray-100 border bg-white p-4 md:p-8 rounded-2xl mx-4">
                             <div className='flex items-center justify center'>
-                                <Link href='https://pereirapulici.com.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={ppImg} className="" quality={100} alt="Print da tela inicial do site da radar do marketing"/></Link>
+                                <Link href='https://pereirapulici.com.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={ppImg} className="" quality={100} alt="Print da tela inicial do site pereira pulici"/></Link>
                             </div>
                             <Link href='https://pereirapulici.com.br/' target='_blank'><h3 className='font-bold text-center mt-5'>Pereira Pulici</h3></Link>
                             <p className='text-center'><b>Tecnologias:</b> Laravel, Bootstrap 3</p>
@@ -47,7 +47,7 @@ export default function Projetos() {
                         </div>
                         <div className="space-y-6 shadow-lg border-gray-100 border bg-white p-4 md:p-8 rounded-2xl mx-4">
                             <div className='flex items-center justify center'>
-                                <Link href='https://okumurasa.com.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={okumuraImg} className="" quality={100} alt="Print da tela inicial do site da radar do marketing"/></Link>
+                                <Link href='https://okumurasa.com.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={okumuraImg} className="" quality={100} alt="Print da tela inicial do site okumura"/></Link>
                             </div>
                             <Link href='https://okumurasa.com.br/' target='_blank'><h3 className='font-bold text-center mt-5'>Okumura Sociedade de Advogados</h3></Link>
                             <p className='text-center'><b>Tecnologias:</b> Laravel, bootstrap 3</p>
@@ -55,7 +55,7 @@ export default function Projetos() {
                         </div>
                         <div className="space-y-6 shadow-lg border-gray-100 border bg-white p-4 md:p-8 rounded-2xl mx-4">
                             <div className='flex items-center justify center'>
-                                <Link href='https://www.fundacaoarcadas.org.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={arcadasImg} className="" quality={100} alt="Print da tela inicial do site da radar do marketing"/></Link>
+                                <Link href='https://www.fundacaoarcadas.org.br/' target='_blank'><Image  data-aos="zoom-out-down"  src={arcadasImg} className="" quality={100} alt="Print da tela inicial do site fundação arcadas"/></Link>
                             </div>
                             <Link href='https://www.fundacaoarcadas.org.br/' target='_blank'><h3 className='font-bold text-center mt-5'>Fundação Arcadas</h3></Link>
                             <p className='text-center'><b>Tecnologias:</b> Laravel, bootstrap 3</p>
