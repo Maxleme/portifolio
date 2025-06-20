@@ -47,6 +47,10 @@ const certList = [
         titulo: "Começando na AWS com Lightsail, EC2, S3, VPC, RDS e DynamoDB",
         link: "https://cursos.alura.com.br/degree/certificate/8cbfed86-74e2-426f-80c3-5b0136369f51?lang=pt_BR"
     },
+    {
+        titulo: "PHP Composer: Dependências, Autoload e Publicação",
+        link: "https://cursos.alura.com.br/certificate/642e882f-0036-4bdd-9a60-7d0136b61ab9?lang=pt_BR"
+    }
 ];
 
 export default certList;
