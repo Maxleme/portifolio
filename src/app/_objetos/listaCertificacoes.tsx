@@ -50,7 +50,16 @@ const certList = [
     {
         titulo: "PHP Composer: Dependências, Autoload e Publicação",
         link: "https://cursos.alura.com.br/certificate/642e882f-0036-4bdd-9a60-7d0136b61ab9?lang=pt_BR"
+    },
+    {
+        titulo: "PHP e PDO: trabalhando com bancos de dados",
+        link: "hhttps://cursos.alura.com.br/certificate/c011c31a-c707-45a9-a39c-d5fbcd5a3163?lang=pt_BR"
+    },
+    {
+        titulo: "PHP e MySQL: criando sua primeira aplicação web",
+        link: "https://cursos.alura.com.br/certificate/337b21b1-c89f-4917-a20b-3462912b55b9?lang=pt_BR"
     }
+
 ];
 
 export default certList;
